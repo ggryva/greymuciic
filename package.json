@@ -1,7 +1,7 @@
 {
   "name": "jockie-god-mode-real",
   "version": "3.0.0",
-  "main": "index.js",
+  "main": "node index.js",
   "scripts": {
     "start": "node index.js",
     "deploy": "node deploy.js"
