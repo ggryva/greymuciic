@@ -1,0 +1,1 @@
+module.exports.execute=i=>{i.reply("24/7 enabled");};
